@@ -13,9 +13,11 @@
 
 
 ### Work Experience
-- 2021 - Present - Bechtle
-- Buyitdirect
-- 2019/2020 - Prokino
+2021 - Present 
+Bechtle
+
+2019 -2020 
+Prokino
 
 ### Education
 - POST-HBO Lean Six Sigma Black Belt
