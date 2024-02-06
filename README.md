@@ -18,5 +18,5 @@
 - 2019/2020 - Prokino
 
 ### Education
-- POST-HBO Lean Sic Sigma Black Belt
+- POST-HBO Lean Six Sigma Black Belt
 - 
